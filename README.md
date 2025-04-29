@@ -1,4 +1,4 @@
-# 🧪 NodiLaboratory
+# 🧪 NodiiLaboratory
 
 Este repositorio documenta mi proceso de aprendizaje y experimentación al montar un nodo completo de Bitcoin y herramientas relacionadas.  
 La idea es que cualquiera pueda seguir estos pasos para reproducirlo de forma ordenada, modular y entendible.
